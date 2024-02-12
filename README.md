@@ -7,3 +7,5 @@
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zjx-kimi" /> </div>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=zjx-kimi&theme=xcode" /> </div>
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zjx-kimi" /> </div>
