@@ -22,7 +22,8 @@
 
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
-<div align=""> <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github">
+<div align=""> 
+<img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github">
 <img src="https://stats.justsong.cn/api/website/?url=https://google.com/&style=flat&logo=google">
 <img src="https://stats.justsong.cn/api/website/?url=https://telegram.org/&style=flat&logo=telegram">
 </div>
