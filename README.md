@@ -14,7 +14,10 @@
 
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=m0_73085893"> </div>
 
-<img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat"/> [<img src="http://img.shields.io/badge/Online--Judge-%E7%A0%81%E6%8B%93-brightgreen" />](https://6bea298b.r17.cpolar.top/)
-[<img src="http://img.shields.io/badge/%E7%BD%91%E7%9B%98-nextcloud-brightgreen"/>](https://79cd74ab.r16.vip.cpolar.cn/)
-[<img src="http://img.shields.io/badge/%E6%B4%9B%E8%B0%B7-kimi0705-blue"/>](https://www.luogu.com.cn/user/637788)
-[<img src="http://img.shields.io/badge/CodeForces-kimi2011-brightgreen"/>](https://codeforces.com/profile/kimi2011)
+![](https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat)
+
+[![](http://img.shields.io/badge/Online--Judge-%E7%A0%81%E6%8B%93-brightgreen)](https://6bea298b.r17.cpolar.top/)
+[![](http://img.shields.io/badge/%E7%BD%91%E7%9B%98-nextcloud-brightgreen)](https://79cd74ab.r16.vip.cpolar.cn/)
+[![](http://img.shields.io/badge/%E6%B4%9B%E8%B0%B7-kimi0705-blue)](https://www.luogu.com.cn/user/637788)
+[![](http://img.shields.io/badge/CodeForces-kimi2011-brightgreen)](https://codeforces.com/profile/kimi2011)
+[![](https://img.shields.io/badge/Github-zjx--kimi-black)](https://github.com/zjx-kimi)
