@@ -9,3 +9,5 @@
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=zjx-kimi&theme=xcode" /> </div>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zjx-kimi" /> </div>
+
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=m0_73085893"> </div>
