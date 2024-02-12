@@ -14,5 +14,4 @@
 
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=m0_73085893"> </div>
 
-<img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-<img src="http://img.shields.io/badge/Online--Judge-%E7%A0%81%E6%8B%93-brightgreen" />
+<img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat"/> <img src="http://img.shields.io/badge/Online--Judge-%E7%A0%81%E6%8B%93-brightgreen" />
