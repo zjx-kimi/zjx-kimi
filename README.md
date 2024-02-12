@@ -16,3 +16,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat"/> [<img src="http://img.shields.io/badge/Online--Judge-%E7%A0%81%E6%8B%93-brightgreen" />](https://6bea298b.r17.cpolar.top/)
 [<img src="http://img.shields.io/badge/%E7%BD%91%E7%9B%98-nextcloud-brightgreen"/>](https://d0ba245.r3.cpolar.cn/)
+[<img src="[http://img.shields.io/badge/%E7%BD%91%E7%9B%98-nextcloud-brightgreen](https://img.shields.io/badge/%E6%B4%9B%E8%B0%B7-kimi0705-blue)https://img.shields.io/badge/%E6%B4%9B%E8%B0%B7-kimi0705-blue"/>](https://www.luogu.com.cn/user/637788)
