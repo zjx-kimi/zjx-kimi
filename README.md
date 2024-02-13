@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=小钟同学祝您今天愉快!&center=true&size=27"> </a> </div>
+<div align="center"> <img src="files/1.svg"> </a> </div>
 
 <img src="files/---.gif" height="20" width="100%">
 
