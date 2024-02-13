@@ -22,6 +22,10 @@
 
 <img src="files/---.gif" height="20" width="100%">
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zjx-kimi&bg_color=000000&color=01d7f4&line=ff0000&point=412ed1&area=true&hide_border=true)
+
+<img src="files/---.gif" height="20" width="100%">
+
 <div align=""> 
 <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github">
 <img src="https://stats.justsong.cn/api/website/?url=https://google.com/&style=flat&logo=google">
