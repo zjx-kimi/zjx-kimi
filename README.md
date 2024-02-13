@@ -36,6 +36,7 @@
 
 ![](https://komarev.com/ghpvc/?username=zjx-kimi&label=Views&color=0e75b6&style=flat)
 [![](http://img.shields.io/badge/Online--Judge-%E7%A0%81%E6%8B%93-brightgreen)](https://6bea298b.r17.cpolar.top/)
+[![](http://img.shields.io/badge/Online--Judge-%E7%A0%81%E6%8B%93-blue)](https://bfc2cda.r17.cpolar.top/)
 [![](http://img.shields.io/badge/%E7%BD%91%E7%9B%98-nextcloud-brightgreen)](https://1c4dc9a5.r9.vip.cpolar.cn/)
 [![](http://img.shields.io/badge/%E6%B4%9B%E8%B0%B7-kimi0705-blue)](https://www.luogu.com.cn/user/637788)
 [![](http://img.shields.io/badge/CodeForces-kimi2011-brightgreen)](https://codeforces.com/profile/kimi2011)
