@@ -47,4 +47,4 @@
 [![](http://img.shields.io/badge/email-15381388023@163.com-ddddd)](mailto:15381388023@163.com)
 ![](http://img.shields.io/badge/phone-+86%2015381388023-orange)
 [![](http://img.shields.io/badge/Atcoder-kimi2011-red)](https://atcoder.jp/users/kimi0705)
-![](http://img.shields.io/badge/QQ-1345098180-orange)
+[![](http://img.shields.io/badge/QQ-1345098180-orange)](http://wpa.qq.com/msgrd?v=3&uin=1345098180&site=qq&menu=yes)
