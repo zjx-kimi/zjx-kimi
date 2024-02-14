@@ -27,12 +27,13 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=zjx-kimi&bg_color=000000&color=01d7f4&line=ff0000&point=412ed1&area=true&hide_border=true">
   </div>
   <img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
-  <!-- 账号 -->
+  <div> 🌐网站信息</div>
   <div>
     <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github">
     <img src="https://stats.justsong.cn/api/website/?url=https://google.com/&style=flat&logo=google">
     <img src="https://stats.justsong.cn/api/website/?url=https://telegram.org/&style=flat&logo=telegram">
   </div>
+  <div> 🌐常用的账号</div>
   <div>
     <img src="https://komarev.com/ghpvc/?username=zjx-kimi&label=Views&color=0e75b6&style=flat" alt="">
     <a href="http://65fd28fd.r9.vip.cpolar.cn">
