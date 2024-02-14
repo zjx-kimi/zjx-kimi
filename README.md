@@ -9,27 +9,15 @@
     <img src="files/running.png" />
   </div>
   <div>
-    <img src="files/---.gif" height="20" width="100%">
-  </div>
-  <div>
     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zjx-kimi&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
   </div>
   <div>
-    <img src="files/---.gif" height="20" width="100%">
-  </div>
-  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjx-kimi&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </div>
   <div>
-    <img src="files/---.gif" height="20" width="100%">
-  </div>
-  <div>
     <img src="https://github-profile-trophy.vercel.app/?username=zjx-kimi" />
-  </div>
-  <div>
-    <img src="files/---.gif" height="20" width="100%">
   </div>
   <div>
     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
@@ -37,27 +25,15 @@
     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
   </div>
   <div>
-    <img src="files/---.gif" height="20" width="100%">
-  </div>
-  <div>
     <img src="https://stats.justsong.cn/api/csdn?id=m0_73085893">
-  </div>
-  <div>
-    <img src="files/---.gif" height="20" width="100%">
   </div>
   <div>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=zjx-kimi&bg_color=000000&color=01d7f4&line=ff0000&point=412ed1&area=true&hide_border=true">
   </div>
   <div>
-    <img src="files/---.gif" height="20" width="100%">
-  </div>
-  <div>
     <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github">
     <img src="https://stats.justsong.cn/api/website/?url=https://google.com/&style=flat&logo=google">
     <img src="https://stats.justsong.cn/api/website/?url=https://telegram.org/&style=flat&logo=telegram">
-  </div>
-  <div>
-    <img src="files/---.gif" height="20" width="100%">
   </div>
   <div>
     <img src="https://komarev.com/ghpvc/?username=zjx-kimi&label=Views&color=0e75b6&style=flat" alt="">
