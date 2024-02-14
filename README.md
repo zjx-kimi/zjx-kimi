@@ -27,6 +27,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=zjx-kimi&bg_color=000000&color=01d7f4&line=ff0000&point=412ed1&area=true&hide_border=true">
   </div>
   <img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+  <!-- 账号 -->
   <div>
     <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github">
     <img src="https://stats.justsong.cn/api/website/?url=https://google.com/&style=flat&logo=google">
@@ -68,6 +69,14 @@
     <a href="http://wpa.qq.com/msgrd?v=3&uin=1345098180&site=qq&menu=yes">
       <img src="http://img.shields.io/badge/QQ-1345098180-orange" alt="">
     </a>
+  </div>
+  <div>🧰 常用的工具</div>
+  <div>
+      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" alt="Linux Badge">
+      <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat" alt="Windows Badge">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="Visual Studio Code Badge">
+      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" alt="Visual Studio Badge">
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub Badge"></p>
   </div>
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>
