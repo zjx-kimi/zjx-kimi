@@ -72,14 +72,14 @@
   </div>
   <div>🧰 常用的工具</div>
   <div>
-      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" alt="Linux Badge">
-      <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat" alt="Windows Badge">
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="Visual Studio Code Badge">
-      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" alt="Visual Studio Badge">
-      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub Badge"></div>
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" alt="Linux Badge">
+    <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat" alt="Windows Badge">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="Visual Studio Code Badge">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" alt="Visual Studio Badge">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub Badge">
   </div>
   <div>
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,discord,git,py,ps,php,qt,vim,vscode,visualstudio,powershell,md,github,docker&perline=8">
   </div>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
