@@ -1,6 +1,7 @@
 <div align="center"> 
 <div> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello World;小钟同学祝您今天愉快!&center=true&size=27" /> </div>
 <div> <img src="files/coding.gif" /> </div>
+<div> <img src="files/running.png" /> </div>
 <div> <img src="files/---.gif" height="20" width="100%"> </div>
 <div> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zjx-kimi&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 <div> <img src="files/---.gif" height="20" width="100%"> </div>
