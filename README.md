@@ -25,7 +25,9 @@
     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
   </div>
   <div>
+    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
     <img src="https://stats.justsong.cn/api/csdn?id=m0_73085893">
+    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
   </div>
   <div>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=zjx-kimi&bg_color=000000&color=01d7f4&line=ff0000&point=412ed1&area=true&hide_border=true">
