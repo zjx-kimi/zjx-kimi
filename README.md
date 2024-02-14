@@ -27,17 +27,20 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=zjx-kimi&bg_color=000000&color=01d7f4&line=ff0000&point=412ed1&area=true&hide_border=true">
   </div>
   <img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
-  <div>💪 正在学习</div>
-  <img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&amp;logoColor=fff&amp;style=flat" />
-  <img alt="Python Badge" src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=fff&amp;style=flat" />
-  <img alt="C Badge" src="https://img.shields.io/badge/C-A8B9CC?logo=c&amp;logoColor=fff&amp;style=flat" />
-  <img alt="C++ Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&amp;logoColor=fff&amp;style=flat" />
   <div>🌐网站信息</div>
   <div>
     <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github">
     <img src="https://stats.justsong.cn/api/website/?url=https://google.com/&style=flat&logo=google">
     <img src="https://stats.justsong.cn/api/website/?url=https://telegram.org/&style=flat&logo=telegram">
   </div>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
+  </div>
+  <div>💪 正在学习</div>
+  <img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&amp;logoColor=fff&amp;style=flat" />
+  <img alt="Python Badge" src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=fff&amp;style=flat" />
+  <img alt="C Badge" src="https://img.shields.io/badge/C-A8B9CC?logo=c&amp;logoColor=fff&amp;style=flat" />
+  <img alt="C++ Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&amp;logoColor=fff&amp;style=flat" />
   <div>🌐常用的账号</div>
   <div>
     <img src="https://komarev.com/ghpvc/?username=zjx-kimi&label=Views&color=0e75b6&style=flat" alt="">
