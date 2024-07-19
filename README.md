@@ -85,7 +85,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub Badge">
   </div>
   <div>
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,discord,git,py,ps,php,qt,vim,vscode,visualstudio,powershell,md,github,docker&perline=8">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,discord,git,py,ps,php,qt,vim,vscode,visualstudio,powershell,md,github,docker;windows;linux;ubuntu;gmail;ai;htmx&perline=8">
   </div>
   <div>
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 0px;" />
