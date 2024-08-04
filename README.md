@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello World;小钟同学祝您今天愉快!&center=true&size=27" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello World&center=true&size=27" />
   </div>
   <div>
     <img src="files/coding.gif" />
