@@ -41,11 +41,8 @@
   <div>🌐常用的账号</div>
   <div>
     <img src="https://komarev.com/ghpvc/?username=zjx-kimi&label=Views&color=0e75b6&style=flat" alt="">
-    <a href="http://65fd28fd.r9.vip.cpolar.cn">
-      <img src="http://img.shields.io/badge/Online--Judge-%E7%A0%81%E6%8B%93-blue" alt="">
-    </a>
-    <a href="https://1c4dc9a5.r9.vip.cpolar.cn">
-      <img src="http://img.shields.io/badge/%E7%BD%91%E7%9B%98-nextcloud-brightgreen" alt="">
+    <a href="http://oj.cpolar.top/">
+      <img src="http://img.shields.io/badge/Online--Judge-OJ-blue" alt="">
     </a>
     <a href="https://www.luogu.com.cn/user/637788">
       <img src="http://img.shields.io/badge/%E6%B4%9B%E8%B0%B7-kimi0705-blue" alt="">
