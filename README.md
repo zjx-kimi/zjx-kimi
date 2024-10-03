@@ -41,7 +41,7 @@
   <div>🌐常用的账号</div>
   <div>
     <img src="https://komarev.com/ghpvc/?username=zjx-kimi&label=Views&color=0e75b6&style=flat" alt="">
-    <a href="http://oj.cpolar.top/">
+    <a href="http://oj.cpolar.cn/">
       <img src="http://img.shields.io/badge/Online--Judge-OJ-blue" alt="">
     </a>
     <a href="https://www.luogu.com.cn/user/637788">
