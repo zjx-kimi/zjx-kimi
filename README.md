@@ -38,41 +38,7 @@
   <img alt="Python Badge" src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=fff&amp;style=flat" />
   <img alt="C Badge" src="https://img.shields.io/badge/C-A8B9CC?logo=c&amp;logoColor=fff&amp;style=flat" />
   <img alt="C++ Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&amp;logoColor=fff&amp;style=flat" />
-  <div>🌐常用的账号</div>
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=zjx-kimi&label=Views&color=0e75b6&style=flat" alt="">
-    <a href="http://oj.cpolar.cn/">
-      <img src="http://img.shields.io/badge/Online--Judge-OJ-blue" alt="">
-    </a>
-    <a href="https://www.luogu.com.cn/user/637788">
-      <img src="http://img.shields.io/badge/%E6%B4%9B%E8%B0%B7-kimi0705-blue" alt="">
-    </a>
-    <a href="https://codeforces.com/profile/kimi2011">
-      <img src="http://img.shields.io/badge/CodeForces-kimi2011-brightgreen" alt="">
-    </a>
-    <a href="https://github.com/zjx-kimi">
-      <img src="http://img.shields.io/badge/Github-zjx--kimi-black" alt="">
-    </a>
-    <a href="mailto:1345098180@qq.com">
-      <img src="http://img.shields.io/badge/email-1345098180@qq.com-ddddd" alt="">
-    </a>
-    <a href="mailto:zhongjiaxuankimi@qq.com">
-      <img src="http://img.shields.io/badge/email-zhongjiaxuankimi@qq.com-ddddd" alt="">
-    </a>
-    <a href="[def]">
-      <img src="http://img.shields.io/badge/email-zhongjiaxuankimi@outlook.com-ddddd" alt="">
-    </a>
-    <a href="mailto:15381388023@163.com">
-      <img src="http://img.shields.io/badge/email-15381388023@163.com-ddddd" alt="">
-    </a>
-    <img src="http://img.shields.io/badge/phone-+86%2015381388023-orange" alt="">
-    <a href="https://atcoder.jp/users/kimi0705">
-      <img src="http://img.shields.io/badge/Atcoder-kimi2011-red" alt="">
-    </a>
-    <a href="http://wpa.qq.com/msgrd?v=3&uin=1345098180&site=qq&menu=yes">
-      <img src="http://img.shields.io/badge/QQ-1345098180-orange" alt="">
-    </a>
-  </div>
+  
   <div>🧰 常用的工具</div>
   <div>
     <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" alt="Linux Badge">
